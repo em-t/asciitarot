@@ -1,0 +1,72 @@
+[
+  {
+    "name": "0 - The Fool",
+    "uprightMeaning": "beginnings, innocence, spontaneity, a free spirit",
+    "reversedMeaning": "naivety, foolishness, recklessness, risk-taking",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "I - The Magician",
+    "uprightMeaning": "manifestation, resourcefulness, power, inspired action",
+    "reversedMeaning": "manipulation, poor planning, untapped talents",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "II - The High Priestess",
+    "uprightMeaning": "intuition, sacred knowledge, divine feminine, the subconscious mind",
+    "reversedMeaning": "secrets, disconnected from intuition, withdrawal and silence",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "III - The Empress",
+    "uprightMeaning": "Upright: femininity, beauty, nature, nurturing, abundance",
+    "reversedMeaning": "Reversed: creative block, dependence on others",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "IV - The Emperor",
+    "uprightMeaning": "authority, father figure, structure, solid foundation",
+    "reversedMeaning": "domination, excessive control, rigidity, inflexibility",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "V - The Hierophant",
+    "uprightMeaning": "religion, group identity, conformity, tradition, beliefs",
+    "reversedMeaning": "restriction, challenging the status quo",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "I - Ace of Wands",
+    "uprightMeaning": "Upright: inspiration, power, creation, beginnings, potential",
+    "reversedMeaning": "Reversed: delays, lack of motivation, weighed down",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "I - Ace of Swords",
+    "uprightMeaning": "Upright: raw power, victory, breakthroughs, mental clarity",
+    "reversedMeaning": "Reversed: confusion, chaos, lack of clarity",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "I - Ace of Cups",
+    "uprightMeaning": "Upright: love, new relationships, compassion, creativity",
+    "reversedMeaning": "Reversed: self-love, intuition, repressed emotions",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "I - Ace of Pentacles",
+    "uprightMeaning": "Upright: a new financial or career opportunity, manifestation, abundance",
+    "reversedMeaning": "Reversed: lost opportunity, lack of planning and foresight",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  }
+]
