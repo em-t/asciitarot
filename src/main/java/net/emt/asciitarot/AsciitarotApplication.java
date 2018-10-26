@@ -16,10 +16,12 @@ import java.util.List;
 
 @SpringBootApplication
 public class AsciitarotApplication {
+    // vanha, voi poistaa lopuksi, json todettu paremmaksi tavaksi hallita dataa
     public Resource loadCards() {
         return new ClassPathResource("/descriptions.txt");
     }
 
+    // ei tarpeellinen, voi poistaa, tiedosto avataan myöhemmässä kohdassa
     public Resource loadCardsFromJSON() {
         return new ClassPathResource("/descriptions.json");
     }
@@ -34,6 +36,8 @@ public class AsciitarotApplication {
         return (args) -> {
             File file = loadCards().getFile();
 
+            // === loops through card details in json file and adds them to deck ===
+            // dev notes:
             // hox repo.save osaa tallentaa listan - paitsi että minulla ei osaa
             // trying example from: https://therealdanvega.com/blog/2017/07/05/read-json-data-spring-boot-write-database
             // === alla oleva toimii silloin, kun json-data ei sisällä tietoa minor arcanasta
@@ -50,9 +54,9 @@ public class AsciitarotApplication {
                 System.out.println("Unable to save cards: " + e.getMessage());
             }
 
-            // =============
+            // ============= OLD ATTEMPTS & TRIES =============
 
-            // === alla oleva toimi sekä .txt että .json datan lukemiseen rivi riviltä
+            // === for reading txt or json file row by row, tried this before looping through and adding cards ===
             /*try (FileReader fr = new FileReader(file);
                  BufferedReader reader = new BufferedReader(fr)) {
                 String row;
@@ -67,7 +71,7 @@ public class AsciitarotApplication {
                 e.printStackTrace();
             }*/
 
-            // === alla oleva toimi yhden kortin manuaaliseen lisäämiseen ===
+            // === adding a single card - initial test before looping through data ===
             /*Card card = new Card();
             card.setName("I - Ace of Cups");
             card.setUprightMeaning("Upright: love, new relationships, compassion, creativity");

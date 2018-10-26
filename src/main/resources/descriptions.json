@@ -42,30 +42,506 @@
     "suit": "major"
   },
   {
+    "name": "VI - The Lovers",
+    "uprightMeaning": "love union, relationships, values, alignment, choices",
+    "reversedMeaning": "disharmony, imbalance, misalignment of values",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "VII - The Chariot",
+    "uprightMeaning": "control, will power, victory, assertion, determination",
+    "reversedMeaning": "lack of control and direction, aggression",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "VIII - Strength",
+    "uprightMeaning": "strength, courage, patience, control, compassion",
+    "reversedMeaning": "weakness, self-doubt, lack of self-discipline",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "IX - The Hermit",
+    "uprightMeaning": "soul-searching, introspection, being alone, inner guidance",
+    "reversedMeaning": "isolation, loneliness, withdrawal",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "X - Wheel of Fortune",
+    "uprightMeaning": "good luck, karma, life cycles, destiny, a turning point",
+    "reversedMeaning": "bad luck, negative external forces, out of control",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XI - Justice",
+    "uprightMeaning": "justice, fairness, truth, cause and effect, law",
+    "reversedMeaning": "unfairness, lack of accountability, dishonesty",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XII - The Hanged Man",
+    "uprightMeaning": "suspension, restriction, letting go, sacrifice",
+    "reversedMeaning": "martyrdom, indecision, delay",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XIII - Death",
+    "uprightMeaning": "endings, beginnings, change, transformation, transition",
+    "reversedMeaning": "resistance to change, unable to move on",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XIV - Temperance",
+    "uprightMeaning": "balance, moderation, patience, purpose, meaning",
+    "reversedMeaning": "imbalance, excess, lack of long-term vision",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XV - The Devil",
+    "uprightMeaning": "bondage, addiction, sexuality, materialism",
+    "reversedMeaning": "detachment, breaking free, power reclaimed",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XVI - The Tower",
+    "uprightMeaning": "disaster, upheaval, sudden change, revelation",
+    "reversedMeaning": "avoidance of disaster, fear of change",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XVII - The Star",
+    "uprightMeaning": "hope, spirituality, renewal, inspiration, serenity",
+    "reversedMeaning": "lack of faith, despair, discouragement",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XVIII - The Moon",
+    "uprightMeaning": "illusion, fear, anxiety, insecurity, subconscious",
+    "reversedMeaning": "release of fear, unhappiness, confusion",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XIX - The Sun",
+    "uprightMeaning": "fun, warmth, success, positivity, vitality",
+    "reversedMeaning": "temporary depression, lack of success",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XX - Judgement",
+    "uprightMeaning": "judgement, rebirth, inner calling, absolution",
+    "reversedMeaning": "self-doubt, inner critic, ignoring the call",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
+    "name": "XXI - World",
+    "uprightMeaning": "completion, integration, accomplishment, travel",
+    "reversedMeaning": "seeking personal closure, short cuts, delays",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "major"
+  },
+  {
     "name": "I - Ace of Wands",
-    "uprightMeaning": "Upright: inspiration, power, creation, beginnings, potential",
-    "reversedMeaning": "Reversed: delays, lack of motivation, weighed down",
+    "uprightMeaning": "inspiration, power, creation, beginnings, potential",
+    "reversedMeaning": "delays, lack of motivation, weighed down",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+  "name": "II - Two of Wands",
+  "uprightMeaning": "future planning, progress, decisions, discovery",
+  "reversedMeaning": "fear of the unknown, lack of planning",
+  "filepath": "/gfx/meme.jpg",
+  "suit": "wands"
+  },
+  {
+    "name": "III - Three of Wands",
+    "uprightMeaning": "preparation, foresight, enterprise, expansion",
+    "reversedMeaning": "lack of foresight, delays, obstacles to long-term goals",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "IV - Four of Wands",
+    "uprightMeaning": "celebration, harmony, marriage, home, community",
+    "reversedMeaning": "breakdown in communication, transition",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "V - Five of Wands",
+    "uprightMeaning": "disagreement, competition, strife, tension, conflict",
+    "reversedMeaning": "conflict avoidance, diversity, agreeing to disagree",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "VI - Six of Wands",
+    "uprightMeaning": "public recognition, victory, progress, self-confidence",
+    "reversedMeaning": "egotism, disrepute, lack of confidence, fall from grace",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "VII - Seven of Wands",
+    "uprightMeaning": "challenge, competition, perseverance",
+    "reversedMeaning": "giving up, overwhelmed, overly protective",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "VIII - Eight of Wands",
+    "uprightMeaning": "speed, action, air travel, movement, swift change",
+    "reversedMeaning": "delays, frustration, holding off",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "IX - Nine of Wands",
+    "uprightMeaning": "courage, persistence, test of faith, resilience",
+    "reversedMeaning": "on edge, defensive, hesitant, paranoia",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "X - Ten of Wands",
+    "uprightMeaning": "burden, responsibility, hard work, stress, achievement",
+    "reversedMeaning": "taking on too much, avoiding responsibility",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "Page of Wands",
+    "uprightMeaning": "enthusiasm, exploration, discovery, free spirit",
+    "reversedMeaning": "setbacks to new ideas, pessimism, lack of direction",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "Knight of Wands",
+    "uprightMeaning": "energy, passion, lust, action, adventure, impulsiveness",
+    "reversedMeaning": "haste, scattered energy, delays, frustration",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "Queen of Wands",
+    "uprightMeaning": "exuberance, warmth, vibrancy, determination",
+    "reversedMeaning": "shrinking violet, aggressive, demanding",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "wands"
+  },
+  {
+    "name": "King of Wands",
+    "uprightMeaning": "natural-born leader, vision, entrepreneur, honour",
+    "reversedMeaning": "impulsiveness, haste, ruthless, high expectations",
     "filepath": "/gfx/meme.jpg",
     "suit": "wands"
   },
   {
     "name": "I - Ace of Swords",
-    "uprightMeaning": "Upright: raw power, victory, breakthroughs, mental clarity",
-    "reversedMeaning": "Reversed: confusion, chaos, lack of clarity",
+    "uprightMeaning": "raw power, victory, breakthroughs, mental clarity",
+    "reversedMeaning": "confusion, chaos, lack of clarity",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "II - Two of Swords",
+    "uprightMeaning": "indecision, choices, truce, stalemate, blocked emotions",
+    "reversedMeaning": "indecision, confusion, information overload",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "III - Three of Swords",
+    "uprightMeaning": "painful separation, sorrow, heartbreak, grief, rejection",
+    "reversedMeaning": "releasing pain, optimism, forgiveness",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "IV - Four of Swords",
+    "uprightMeaning": "contemplation, recuperation, passivity, relaxation, rest",
+    "reversedMeaning": "restlessness, burnout, lack of progress",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "V - Five of Swords",
+    "uprightMeaning": "conflict, tension, loss, defeat, win at all costs, betrayal",
+    "reversedMeaning": "open to change, past resentment",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "VI - Six of Swords",
+    "uprightMeaning": "regretful but necessary transition, rite of passage",
+    "reversedMeaning": "cannot move on, carrying baggage",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "VII - Seven of Swords",
+    "uprightMeaning": "strategy, betrayal, deceit, sneaky behaviour",
+    "reversedMeaning": "caught out, challenges, breaking habits",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "VIII - Eight of Swords",
+    "uprightMeaning": "trapped, limiting beliefs, blindspots",
+    "reversedMeaning": "freedom, a way out, self-acceptance",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "IX - Nine of Swords",
+    "uprightMeaning": "depression, worry, anxiety, nightmares",
+    "reversedMeaning": "don't sweat the small stuff, getting perspective",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "X - Ten of Swords",
+    "uprightMeaning": "endings, betrayal, back-stabbed",
+    "reversedMeaning": "release from pain, light at the end of the tunnel, new beginnings",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "Page of Swords",
+    "uprightMeaning": "talkative, curious, mentally restless, energetic",
+    "reversedMeaning": "all talk and no action, haste, undelivered promises",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "Knight of Swords",
+    "uprightMeaning": "opinionated, hasty, action-oriented, communicative",
+    "reversedMeaning": "scattered thought, disregard for consequences",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "Queen of Swords",
+    "uprightMeaning": "quick thinker, organised, perceptive, independent",
+    "reversedMeaning": "overly emotional, bitchy, cold-hearted",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "swords"
+  },
+  {
+    "name": "King of Swords",
+    "uprightMeaning": "clear thinking, intellectual power, authority, truth",
+    "reversedMeaning": "manipulative, tyrannical, abusive",
     "filepath": "/gfx/meme.jpg",
     "suit": "swords"
   },
   {
     "name": "I - Ace of Cups",
-    "uprightMeaning": "Upright: love, new relationships, compassion, creativity",
-    "reversedMeaning": "Reversed: self-love, intuition, repressed emotions",
+    "uprightMeaning": "love, new relationships, compassion, creativity",
+    "reversedMeaning": "self-love, intuition, repressed emotions",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "II - Two of Cups",
+    "uprightMeaning": "unified love, partnership, attraction, relationships",
+    "reversedMeaning": "break-up, imbalance in a relationship, lack of harmony",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "III - Three of Cups",
+    "uprightMeaning": "celebration, friendship, creativity, community",
+    "reversedMeaning": "anaffair, 'three's a crowd', stifled creativity",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "IV - Four of Cups",
+    "uprightMeaning": "meditation, contemplation, apathy, re-evaluation",
+    "reversedMeaning": "boredom, missed opportunity, being aloof",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "V - Five of Cups",
+    "uprightMeaning": "loss, regret, disappointment, despair, bereavement",
+    "reversedMeaning": "moving on, acceptance, forgiveness",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "VI - Six of Cups",
+    "uprightMeaning": "reunion, nostalgia, childhood memories, innocence",
+    "reversedMeaning": "stuck in the past, naivety, unrealistic",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "VII - Seven of Cups",
+    "uprightMeaning": "fantasy, illusion, wishful thinking, choices, imagination",
+    "reversedMeaning": "temptation, illusion, diversionary tactics",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "VIII - Eight of Cups",
+    "uprightMeaning": "escapism, disappointment, abandonment, withdrawal",
+    "reversedMeaning": "hopelessness, aimless drifting, walking away",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "IX - Nine of Cups",
+    "uprightMeaning": "wishes fulfilled, comfort, happiness, satisfaction",
+    "reversedMeaning": "greed, dissatisfaction, materialism",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "X - Ten of Cups",
+    "uprightMeaning": "harmony, marriage, happiness, alignment",
+    "reversedMeaning": "misalignment of values, broken home or marriage",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "Page of Cups",
+    "uprightMeaning": "a messenger, creative beginnings, synchronicity",
+    "reversedMeaning": "emotional immaturity, creative block",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "Knight of Cups",
+    "uprightMeaning": "romance, charm, 'knight in shining armour', imagination",
+    "reversedMeaning": "unrealistic, jealousy, moodiness",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "Queen of Cups",
+    "uprightMeaning": "emotional security, calm, intuitive, compassionate",
+    "reversedMeaning": "emotional insecurity, co-dependency",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "cups"
+  },
+  {
+    "name": "King of Cups",
+    "uprightMeaning": "emotional balance and control, generosity",
+    "reversedMeaning": "emotional manipulation, moodiness, volatility",
     "filepath": "/gfx/meme.jpg",
     "suit": "cups"
   },
   {
     "name": "I - Ace of Pentacles",
-    "uprightMeaning": "Upright: a new financial or career opportunity, manifestation, abundance",
-    "reversedMeaning": "Reversed: lost opportunity, lack of planning and foresight",
+    "uprightMeaning": "a new financial or career opportunity, manifestation, abundance",
+    "reversedMeaning": "lost opportunity, lack of planning and foresight",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "II - Two of Pentacles",
+    "uprightMeaning": "balance, adaptability, time management, priorisation",
+    "reversedMeaning": "disorganisation, financial disarray",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "III - Three of Pentacles",
+    "uprightMeaning": "teamwork, initial fulfillment, collaboration, learning",
+    "reversedMeaning": "lack of teamwork, disregard for skills",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "IV - Four of Pentacles",
+    "uprightMeaning": "control, stability, security, possession, conservatism",
+    "reversedMeaning": "greed, materialism, self-protection",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "V - Five of Pentacles",
+    "uprightMeaning": "isolation, insecurity, worry, financial loss, poverty",
+    "reversedMeaning": "recovery from financial loss, spiritual poverty",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "VI - Six of Pentacles",
+    "uprightMeaning": "generosity, charity, giving, prosperity, sharing wealth",
+    "reversedMeaning": "debt, selfishness, one-sided charity",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "VII - Seven of Pentacles",
+    "uprightMeaning": "vision, perseverance, profit, reward, investment",
+    "reversedMeaning": "lack of long-term vision, limited sucess or reward",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "VIII - Eight of Pentacles",
+    "uprightMeaning": "apprenticeship, education, quality, engagement",
+    "reversedMeaning": "perfectionism, lacking ambition or focus",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "IX - Nine of Pentacles",
+    "uprightMeaning": "gratitude, luxury, self-sufficiency, culmination",
+    "reversedMeaning": "over-investment in work, financial setbacks",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "X - Ten of Pentacles",
+    "uprightMeaning": "wealth, inheritance, family, establishment, retirement",
+    "reversedMeaning": "financial failure, loneliness, loss",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "Page of Pentacles",
+    "uprightMeaning": "manifestation, financial opportunity, new job",
+    "reversedMeaning": "lack of progress and planning, short-term focus",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "Knight of Pentacles",
+    "uprightMeaning": "efficiency, routine, conservatism, methodical",
+    "reversedMeaning": "laziness, boredom, feeling 'stuck'",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "Queen of Pentacles",
+    "uprightMeaning": "practical, homely, motherly, down-to-earth, security",
+    "reversedMeaning": "imbalance in work/family commitments",
+    "filepath": "/gfx/meme.jpg",
+    "suit": "pentacles"
+  },
+  {
+    "name": "King of Pentacles",
+    "uprightMeaning": "security, control, power, discipline, abundance",
+    "reversedMeaning": "authoritative, domineering, controlling",
     "filepath": "/gfx/meme.jpg",
     "suit": "pentacles"
   }
